@@ -1,0 +1,7 @@
+.music{
+    visibility: hidden;
+}
+.secret{
+    transition: 600ms;
+    filter: hue-rotate(3.142rad);
+}
